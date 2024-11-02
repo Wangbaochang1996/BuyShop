@@ -1,14 +1,6 @@
-# Flutter Deer
-
-<img src="preview/logo.jpg"/>
-
+# Flutter Buy florish goods
 ## [English](README-EN.md) | 中文
 
-本项目为个人学习Flutter的练习项目。
-
-通过设置、修改、组合自带部件以及自定义来实现具体的设计效果，满足日常开发的需求。
-
-本项目设计图见design目录，你可以通过我提供的设计图有目标的去练习。所有的实现仅是个人的学习理解，如果有更好的实现方案欢迎交流。
 
 ## 预览
 
